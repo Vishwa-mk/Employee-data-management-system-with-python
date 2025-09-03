@@ -22,10 +22,10 @@ The project also demonstrates **Object-Oriented Programming (OOP) concepts** lik
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
-Add more employee roles (like Intern, HR, Tester, etc.)
+-Add more employee roles (like Intern, HR, Tester, etc.)
 
-Add login/security for admin access
+-Add login/security for admin access
 
-Build a GUI version for easier use
+-Build a GUI version for easier use
