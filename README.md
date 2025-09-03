@@ -22,7 +22,7 @@ The project also demonstrates **Object-Oriented Programming (OOP) concepts** lik
 
 ---
 
-📌 Future Improvements
+##📌 Future Improvements
 
 Add more employee roles (like Intern, HR, Tester, etc.)
 
